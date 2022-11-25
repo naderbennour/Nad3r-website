@@ -1,0 +1,24 @@
+.nav-ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 1.125rem;
+    transition: 0.3s ease;
+}
+
+.nav-ul li a:hover {
+    color: #007aff;
+    transition: 0.3s ease;
+}
+
+.nav-ul li {
+    display: inline;
+    list-style: none;
+    margin: 0 10px;
+
+
+}
+
+.no-mar {
+    margin-left: 0 !important;
+}

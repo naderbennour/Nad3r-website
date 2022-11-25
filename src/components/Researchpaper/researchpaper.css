@@ -1,0 +1,120 @@
+.research-secction {
+    margin-top: 6rem;
+}
+
+.research-block {
+    margin-top: 25px;
+}
+
+.inner-research {
+    border: 1px solid #9ca3af80;
+
+    border-radius: 0.75rem;
+    position: relative;
+    max-width: 1180px;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin-bottom: 2.5rem !important;
+    margin: 0 auto;
+    transition: all 0.2s ease;
+}
+
+.inner-research:hover {
+    border-color: rgb(14 165 233);
+    transition: all 0.2s ease;
+
+}
+
+.ppr-date {
+    padding-top: 1rem;
+    color: white;
+}
+
+.ppr-para {
+    color: white;
+}
+
+.ppr-head {
+    font-weight: 700;
+    color: white;
+}
+
+.right button {
+
+    font-weight: 600;
+    background-color: rgb(3 105 161);
+    padding: 0.7rem 1rem;
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.right button:hover {
+    transition: all 0.2s ease;
+    background-color: rgb(9, 98, 146);
+}
+
+.research-index {
+    position: absolute;
+    border-radius: 0.5rem;
+    padding: 0.25rem 1.25rem;
+    background-color: rgb(4 1 44);
+    color: white;
+    top: 0;
+    margin-top: -15px;
+    border: 1px solid rgb(14 165 233);
+}
+
+.arrow img {
+    width: 30px;
+    cursor: pointer;
+}
+
+.rs-bt {
+    margin-bottom: 1.5rem !important;
+    text-align: center !important;
+
+}
+
+div.hide-it>.inner-research:nth-child(3n+1),div.hide-it>.cv-btn {
+    display: none;
+}
+
+.rotate-it {
+    transform: rotate(180deg);
+}
+
+@media (max-width:1230px) {
+    .inner-research {
+        border: 1px solid #9ca3af80;
+        border-radius: 0.75rem;
+        position: relative;
+        max-width: 95%;
+    }
+}
+
+@media (max-width:768px) {
+    .inner-research {
+        max-width: 88%;
+        flex-direction: column;
+    }
+
+    .right {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:480px) {
+    .inner-research {
+        max-width: 80%;
+        flex-direction: column;
+    }
+
+
+}
