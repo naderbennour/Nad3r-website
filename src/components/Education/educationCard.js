@@ -5,7 +5,7 @@ const EducationCard = ({education}) => {
     <div className="indiv-card">
     <div className="date-block">{education.date}</div>
 
-    <h2 className="edu-bold">{education.diploma}e</h2>
+    <h2 className="edu-bold">{education.diploma}</h2>
     <p className="gpa">
       {education.university} <br />
       {education.location}
