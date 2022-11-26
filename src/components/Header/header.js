@@ -60,7 +60,7 @@ const Header = () => {
               </p>
             </div>
             <div className="cv-btn">
-              <a  href="/resume/resume.pdf" download>
+              <a  href="/resume/cv_naderbennour.pdf" download>
                 <button>
                DOWNLOAD MY CV
                 </button>
