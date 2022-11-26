@@ -82,7 +82,7 @@
 
 }
 
-div.hide-it>.inner-research:nth-child(3n+1),div.hide-it>.cv-btn {
+div.hide-it>.inner-research:nth-child(n+4),div.hide-it>.cv-btn {
     display: none;
 }
 
