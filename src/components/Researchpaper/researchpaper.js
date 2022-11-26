@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Arrow } from "../../utils/allImg";
-import { researchData } from "../../utils/dummyData";
+import { researchData } from "../../utils/nbData";
 import "./researchpaper.css";
 import RSCard from "./RSCard";
 const Researchpaper = () => {

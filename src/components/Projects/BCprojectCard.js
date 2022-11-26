@@ -12,7 +12,7 @@ const BCprojectCard = ({project}) => {
              {project.description}
             </p>
             <a target="_blank" href={project.url}>
-              <button>LIVE PREVIEW</button>
+              <button>OPEN PROJECT</button>
             </a>
           </div>
         </div>

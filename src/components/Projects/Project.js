@@ -1,6 +1,6 @@
 import React from "react";
 import "./project.css";
-import { Projects } from "../../utils/dummyData";
+import { Projects } from "../../utils/nbData";
 import BCprojectCard from "./BCprojectCard"
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";

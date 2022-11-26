@@ -1,6 +1,6 @@
 import React from "react";
 
-import { skills } from "../../utils/dummyData";
+import { skills } from "../../utils/nbData";
 import "./skills.css";
 import SkillsCard from "./SkillsCard";
 const Skills = () => {

@@ -18,21 +18,21 @@ export const education = [
         diploma:"Bachelor of science in Computer Science",
         grade:"5",
         university:"Technical University of Munich",
-        location:"Munich"
+        location:"Germany"
     },
     {
         date:"Oct 2017 – Sept 2018",
         diploma:"Bachelor of science in Electrical Engineering and Information Technology",
         grade:"5",
         university:"Technical University of Munich",
-        location:"Munich"
+        location:"Germany"
     },
     {
         date:"Oct 2016 – Jun 2017",
         diploma:"DSH | Deutsche Sprachprüfung für den Hochschulzugang",
         grade:"5",
         university:"DID deutsch-Institut München",
-        location:"Munich"
+        location:"Germany"
     }
 ]
 
