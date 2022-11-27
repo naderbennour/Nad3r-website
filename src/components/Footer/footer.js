@@ -58,7 +58,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="copyright-area">
-          <p>© 2022 hello@naderbennour.com</p>
+          <p>© 2022 hello@nader.fyi</p>
         </div>
       </div>
     </div>

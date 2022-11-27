@@ -77,7 +77,7 @@ const Header = () => {
               <a
                 target="_blank"
 
-                href="mailto: hello@naderbennour.com"
+                href="mailto: hello@nader.fyi"
               >
                 <img className="spec" src={MailIco} alt="" />
               </a>
