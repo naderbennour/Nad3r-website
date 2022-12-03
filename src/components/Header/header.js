@@ -53,8 +53,8 @@ const Header = () => {
               <p>
                 As a researcher and developer, I am particularly interested in
                 blockchain, data science, and computer algorithms. I've been
-                working on the blockchain & smart contract since 2021, utilizing
-                Solidity, Golang, Haskell, and other programming languages. 
+                working on the blockchain & smart contracts since 2021, utilizing
+                Solidity, Golang, Python, and other programming languages. 
                 I am Passionate about innovative technology. 
                 Motivated to change the world for the better.
               </p>
