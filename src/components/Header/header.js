@@ -51,17 +51,16 @@ const Header = () => {
             </h1>
             <div className="para">
               <p>
-              As a researcher and developer, I have a keen interest in blockchain, 
-              data science, and computer algorithms. With a background in computer 
-              science and a passion for innovative technology, I am motivated to 
-              use my skills and knowledge to make a positive impact on the world.
+              As a researcher and developer with a background in computer science and
+              a passion for innovative technology, I am interested in using my skills
+              to make a positive impact through blockchain, data science, and computer
+              algorithms. I have been working with programming languages such as Solidity,
+              Golang, and Python to develop blockchain and smart contracts. 
               </p>
               <p>
-              Since 2021, I have been working on the blockchain and smart contracts, 
-              using programming languages such as Solidity, Golang, and Python.
-              I am always striving to learn and grow in my field, and am excited to
-              continue exploring the potential of web3 technology to revolutionize 
-              industries and create a more just and equitable society.
+              I am excited to continue learning and growing in my field and to explore the 
+              potential of web3 technology to revolutionize industries and create a more 
+              just and equitable society.
               </p>
             </div>
             <div className="cv-btn">
