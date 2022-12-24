@@ -6,7 +6,7 @@ const BCprojectCard = ({project}) => {
   return (
         <div>
           <div className="main-card">
-            <video autoPlay muted loop class="card-video" src={project.media}></video>
+            <img autoPlay muted loop class="card-img" src={project.media}></img>
             <h3>{project.name}</h3>
             <p>
              {project.description}

@@ -55,9 +55,10 @@ const Header = () => {
               data science, and computer algorithms. With a background in computer 
               science and a passion for innovative technology, I am motivated to 
               use my skills and knowledge to make a positive impact on the world.
+              </p>
+              <p>
               Since 2021, I have been working on the blockchain and smart contracts, 
-              using programming languages such as Solidity, Golang, and Python. 
-              
+              using programming languages such as Solidity, Golang, and Python.
               I am always striving to learn and grow in my field, and am excited to
               continue exploring the potential of web3 technology to revolutionize 
               industries and create a more just and equitable society.
