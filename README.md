@@ -1,4 +1,4 @@
-## nad3r.de
+## nad3r.fyi
 
 Nad3r is a personal portfolio website showcasing the work of Nad3r. It is built using React and Firebase.
 
