@@ -11,7 +11,7 @@ import {ReactLogo,
     CSSLogo,
     CLogo,
   } from "./allImg";
-  import { Video1,Video2,Video3 } from "./allImg";
+  import { ado,arbitrage,cryptodash } from "./allImg";
 export const education = [
     {
         date:"Oct 2018 – present",
@@ -91,19 +91,19 @@ export const skills = [
 export const Projects=[
     {
         name:"AcceleratorDAO",
-        media :Video1,
+        media :ado,
         description:"Goal is to create a safe haven, and transparent community for investors and founders. We want to help invest in projects with a clear path to decentralisation...",
         url:"https://github.com/naderbennour/AcceleratorDAO"
     },
     {
         name:" Arbitrage Bot",
-        media :Video2,
+        media :arbitrage,
         description:"A market-making bot that continuously quotes 2-sides in the ETF's order book, and hedges trades in the stocks themselves. Algorithmis is based on the idea of market-making...",
         url:"https://github.com/naderbennour/Arbitrage-Bot"
     },
     {
         name:"Crypto Bot Trading Dashboard",
-        media :Video3,
+        media :cryptodash,
         description:"This is a Flask webhook app for Binance and Bybit both Spot and Futures. It provides users with a graphical interface to view data from the trades Database...",
         url:"https://github.com/naderbennour/Crypto-Bot-Trading-Dashboard"
     }

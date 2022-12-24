@@ -21,9 +21,9 @@ import LocationArrow from "../assets/img/location.svg";
 import GitIco from "../assets/img/git.svg";
 import LinkdinIco from "../assets/img/linkdin.svg";
 import LinkdinWhiteIco from "../assets/img/linkdinwhite.svg";
-import Video1 from "../assets/video/video.mp4";
-import Video2 from "../assets/video/video.mp4";
-import Video3 from "../assets/video/video.mp4";
+import ado from "../assets/img/ado.png";
+import arbitrage from "../assets/img/arbitrage.jpg";
+import cryptodash from "../assets/img/crypto.jpeg";
 export {
  
   Dp,
@@ -49,7 +49,7 @@ export {
   GitIco,
   LinkdinIco,
   LinkdinWhiteIco,
-  Video1,
-  Video2,
-  Video3,
+  ado,
+  arbitrage,
+  cryptodash,
 };
