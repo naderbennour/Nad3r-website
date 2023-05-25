@@ -10,14 +10,11 @@ import "./header.css";
 import Typed from "react-typed";
 const Header = () => {
   return (
-    <div
-      className="main-header
-  "
-    >
+    <div className="main-header">
       <div className="float-links">
         <ul className="float-ul">
           <li>
-            <a target="_blank" href="https://t.me/nad3rverse">
+            <a target="_blank" href="https://t.me/naderfyi">
               <img src={TelegramIco} alt="" />
             </a>
           </li>
@@ -27,7 +24,7 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a target="_blank" href="https://www.linkedin.com/in/naderbennour/">
+            <a target="_blank" href="https://www.linkedin.com/in/naderfyi/">
               <img src={LinkdinWhiteIco} alt="" />
             </a>
           </li>
@@ -35,41 +32,35 @@ const Header = () => {
       </div>
       <div className="header-flex">
         <div className="left-block">
-          <h4 className="heading-intro">
-            Hi, I’m <span className="blue">Nader Bennour</span>.
-          </h4>
-          <div className="dev-head">
-            <h1>
-              I’m a Blockchain
-              <Typed
-                className="auto-type"
-                strings={["Developer"]}
-                typeSpeed={80}
-                backSpeed={100}
-                loop
-              />
-            </h1>
-            <div className="para">
-              <p>
-              As a researcher and developer with a background in computer science and
-              a passion for innovative technology, I am interested in using my skills
-              to make a positive impact through blockchain, data science, and computer
-              algorithms. I have been working with programming languages such as Solidity,
-              Golang, and Python to develop blockchain and smart contracts. 
-              </p>
-              <p>
-              I am excited to continue learning and growing in my field and to explore the 
-              potential of web3 technology to revolutionize industries and create a more 
-              just and equitable society.
-              </p>
-            </div>
-            <div className="cv-btn">
-              <a  href="/resume/cv_naderbennour.pdf" download>
-                <button>
-               DOWNLOAD MY CV
-                </button>
-              </a>
-            </div>
+            <h4 className="heading-intro">
+                Hello, I'm <span className="blue">Nader</span>.
+            </h4>
+            <div className="dev-head">
+                <h1>
+                    I’m a <span className="blue">Software</span>.
+                    <Typed
+                        className="auto-type"
+                        strings={["Developer"]}
+                        typeSpeed={80}
+                        backSpeed={100}
+                        loop
+                    />
+                </h1>
+                <div className="para">
+                    <p>
+                        With a strong foundation in Computer Science and a burning passion for emerging technologies, I aim to utilize my skills to shape the future of digital solutions. My experience includes working with programming languages such as Solidity, Golang, and Python to craft innovative software and explore the potential of blockchain and smart contracts.
+                    </p>
+                    <p>
+                        I am deeply committed to continuous learning and skill enhancement, particularly in the domain of web3 technology. Inspired by the transformative potential of blockchain, I am excited to explore new avenues that could revolutionize industries and create a more transparent and equitable digital society.
+                    </p>
+                </div>
+                <div className="cv-btn">
+                    <a  href="/resume/cv_naderbennour.pdf" download>
+                        <button>
+                            DOWNLOAD MY CV
+                        </button>
+                    </a>
+                </div>
             <div className="social-links">
               <a
                 target="_blank"
@@ -85,7 +76,7 @@ const Header = () => {
               >
                 <img className="spec" src={MailIco} alt="" />
               </a>
-              <a target="_blank" href="https://t.me/nad3rverse">
+              <a target="_blank" href="https://t.me/naderfyi">
                 <img src={TelegramIco} alt="" />
               </a>
             </div>

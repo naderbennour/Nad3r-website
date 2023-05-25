@@ -116,5 +116,12 @@ export const researchData = [
         title:"Membership Inference Attacks against Machine Learning",
         url:"https://tinyurl.com/MLPrivacyNB",
         event:"Data Privacy Technologies Seminar"
+    },
+    {
+        paperNumber:"Paper 02",
+        date :"Mar 15, 2023",
+        title:"Early Identification of Security Issues in Decentralized Finance",
+        url:"https://tinyurl.com/NaderBThesis",
+        event:"Bachelor Thesis"
     }
 ]
