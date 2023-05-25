@@ -18,7 +18,7 @@ const RSCard = ({research}) => {
     <div className="right">
       <a
         href={research.url}
-        target="_blank"
+        target="_blank" rel="noreferrer"
       >
         <button>View Publication</button>
       </a>

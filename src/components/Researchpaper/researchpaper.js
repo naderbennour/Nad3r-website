@@ -16,7 +16,7 @@ const Researchpaper = () => {
               {researchData.map((research,i)=><RSCard research={research} key={i}  /> )}
               <div className="cv-btn rs-bt">
               <a
-                target="_blank"
+                target="_blank" rel="noreferrer"
                 href="https://www.researchgate.net/profile/"
               >
                 <button>SHOW ALL RESEARCH PAPERS</button>

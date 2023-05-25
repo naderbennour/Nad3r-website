@@ -14,17 +14,17 @@ const Header = () => {
       <div className="float-links">
         <ul className="float-ul">
           <li>
-            <a target="_blank" href="https://t.me/naderfyi">
+            <a target="_blank" rel="noreferrer" href="https://t.me/naderfyi">
               <img src={TelegramIco} alt="" />
             </a>
           </li>
           <li>
-            <a target="_blank" href="https://wa.me/+4917631130365">
+            <a target="_blank" rel="noreferrer" href="https://wa.me/+4917631130365">
               <img src={WhatsappIco} alt="" />
             </a>
           </li>
           <li>
-            <a target="_blank" href="https://www.linkedin.com/in/naderfyi/">
+            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/naderfyi/">
               <img src={LinkdinWhiteIco} alt="" />
             </a>
           </li>
@@ -63,20 +63,20 @@ const Header = () => {
                 </div>
             <div className="social-links">
               <a
-                target="_blank"
+                target="_blank" rel="noreferrer"
                 className="no-mar"
                 href="https://wa.me/+4917631130365"
               >
                 <img src={WhatsappIco} alt="" />
               </a>
               <a
-                target="_blank"
+                target="_blank" rel="noreferrer"
 
                 href="mailto: hello@nader.fyi"
               >
                 <img className="spec" src={MailIco} alt="" />
               </a>
-              <a target="_blank" href="https://t.me/naderfyi">
+              <a target="_blank" rel="noreferrer" href="https://t.me/naderfyi">
                 <img src={TelegramIco} alt="" />
               </a>
             </div>
