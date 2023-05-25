@@ -36,15 +36,15 @@ const Header = () => {
                 Hello, I'm <span className="blue">Nader</span>.
             </h4>
             <div className="dev-head">
-                <h1>
-                    I’m a <span className="blue">Software</span>.
-                    <Typed
-                        className="auto-type"
-                        strings={["Developer"]}
-                        typeSpeed={80}
-                        backSpeed={100}
-                        loop
-                    />
+            <h1>
+              I’m a Software
+              <Typed
+                className="auto-type"
+                strings={["Developer"]}
+                typeSpeed={80}
+                backSpeed={100}
+                loop
+              />
                 </h1>
                 <div className="para">
                     <p>
