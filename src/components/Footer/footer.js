@@ -48,10 +48,10 @@ const Footer = () => {
         </div>
         <div className="footer-links">
           <div className="socials">
-            <a target="_blank" href="https://github.com/naderbennour">
+            <a target="_blank" href="https://github.com/naderfyi">
               <img src={GitIco} alt="" /> <span className="are">GitHub</span>
             </a>
-            <a target="_blank" href="https://www.linkedin.com/in/naderbennour">
+            <a target="_blank" href="https://www.linkedin.com/in/naderfyi">
               <img src={LinkdinIco} alt="" />{" "}
               <span className="are">Linkedin</span>
             </a>
